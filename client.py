@@ -9,7 +9,7 @@ wallet = Wallet()
 requests = BitTransferRequests(wallet)
 
 # server address
-server_url = 'http://10.244.106.101:5000/'
+server_url = '<your_ip_address>/'
 
 print('')
 print("Dreams I Left Behind -- by Gary Plant")
