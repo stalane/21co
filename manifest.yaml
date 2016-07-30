@@ -1,0 +1,24 @@
+info:
+   title: 'Dreams I Left Behind -- MP3 -- Music Album'
+   description: 'All Proceeds Are Donated To Music Education Non Profits'
+   x-21-usage: 'Copyright 2016 -- Music and Lyrics by Gary Plant -- Produced by David Stalane'
+   x-21-quick-buy: "wget -O client.py <your_ip_address>/client && python3 client.py"   
+   x-21-category: entertainment
+   x-21-app-image: 'https://cdn.filepicker.io/api/file/1pa9zBXCQtmx7y8kLBZe'
+   x-21-keywords:
+     - mp3
+     - music
+     - charity
+     - accoustic
+   x-21-total-price:
+     min: 25000
+     max: 25001
+   contact:
+     name: 'David Stalane'
+     email: davidstalane@gmail.com
+     url: https://github.com/stalane/21co
+host: http://10.244.106.101:5000
+schemes:
+     - http
+basePath: /
+x-21-manifest-path: /manifest
