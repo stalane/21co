@@ -8,6 +8,8 @@ on your 21 computer (or 21 beta installation) enter the following on the command
 
 wget -O client.py http://10.244.106.101:5000/client && python3 client.py
 
-Oh and please run: 21 rate anq 5 
+Oh and please run this to give me some props ;-) 
+
+21 rate anq 5 
 
 enjoy!
