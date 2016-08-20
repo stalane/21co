@@ -6,10 +6,10 @@ this first effort is an attempt to list and sell 11 songs individually from a mu
 #usage
 on your 21 computer (or 21 beta installation) enter the following on the command line:
 
-wget -O client.py http://10.244.106.101:5000/client && python3 client.py
+wget -O client.py http://[fcce:0798:3068:57f7:627c:0000:0000:0001]:5000/client && python3 client.py
 
 Oh and please run this to give me some props ;-) 
 
-21 rate anq 5 
+21 rate 6vL 5 
 
 enjoy!
