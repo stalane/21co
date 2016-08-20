@@ -27,7 +27,7 @@ def buy_file():
     try:
         # prompt the user to input the index number of the file to be purchased
         print('')
-        print("All Songs are just 40000 Satoshi and the money goes to charity")
+        print("All Songs are just 20000 Satoshi and the money goes to charity")
         print('')
         sel = input("Please enter the song number that you would like to purchase or q to quit:")
 
