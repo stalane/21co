@@ -8,6 +8,4 @@ on your 21 computer (or 21 beta installation) enter the following on the command
 
 wget -O client.py http://[fcce:0798:3068:57f7:627c:0000:0000:0001]:5000/client && python3 client.py
 
-oh... and please run this to give me some props ;-) 
-
 enjoy!
